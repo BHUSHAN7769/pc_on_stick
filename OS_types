@@ -1,11 +1,14 @@
-+--------------+--------------+---------+---------+-----------------+
-| OS Name      | Base System  | Storage | RAM     | Key Feature     |
-+--------------+--------------+---------+---------+-----------------+
-| MX Linux     | Debian       | 16 GB   | 2 GB    | Best Stability  |
-| Puppy Linux  | Ubuntu/Slack | 4 GB    | 1 GB    | Runs in RAM     |
-| antiX        | Debian       | 8 GB    | 512 MB  | Ultra Light     |
-| Porteus      | Slackware    | 4 GB    | 512 MB  | Modular/Fast    |
-| Tails        | Debian       | 8 GB    | 2 GB    | Privacy/Tor     |
-| Kali Linux   | Debian       | 32 GB   | 2 GB    | Pen-Testing     |
-| Fedora       | Independent  | 32 GB   | 4 GB    | Latest Tech     |
-+--------------+--------------+---------+---------+-----------------+
++----------------+---------------+----------+---------+--------------------+--------------------------------+
+| OS Name        | Base System   | USB Size | Min RAM | Best Feature       | Download Link (Official)       |
++----------------+---------------+----------+---------+--------------------+--------------------------------+
+| MX Linux       | Debian        | 16-32 GB | 2 GB    | Stable All-Rounder | https://mxlinux.org/download   |
+| Puppy Linux    | Ubuntu/Slack  | 4-8 GB   | 1 GB    | Runs in RAM (Fast) | https://puppylinux-woof-ce.com |
+| antiX          | Debian        | 8-16 GB  | 512 MB  | No-systemd (Light) | https://antixlinux.com/download|
+| Slax           | Debian/Slack  | 4 GB     | 512 MB  | Modular / Pocket   | https://www.slax.org           |
+| Linux Lite     | Ubuntu        | 8-16 GB  | 2 GB    | Windows-like UI    | https://www.linuxliteos.com    |
+| Porteus        | Slackware     | 4-8 GB   | 512 MB  | 15-second Boot     | http://www.porteus.org         |
+| Tails          | Debian        | 8 GB     | 2 GB    | Stealth & Privacy  | https://tails.net/install      |
+| Kali Linux     | Debian        | 32 GB+   | 2 GB    | Cyber Security     | https://www.kali.org/get-kali  |
+| Bodhi Linux    | Ubuntu        | 8 GB     | 768 MB  | Moksha Desktop     | https://www.bodhilinux.com     |
+| Zorin OS Lite  | Ubuntu        | 8-16 GB  | 2 GB    | Modern Aesthetics  | https://zorin.com/os/download  |
++----------------+---------------+----------+---------+--------------------+--------------------------------+
