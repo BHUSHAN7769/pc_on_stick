@@ -22,11 +22,11 @@ Open rufus and set its parameters according to the image in image folder(do not 
 # STEP3- FIRST BOOT
 In this step, we will use **toram** method to free your usb.
 
-Once the rufus says complete or done, follow these substeps.
-step1- shut down your pc and start again.
-step2- when your pc show the first screen or logo, press the **boot** key (F12, esc, F10). It will open the one-time boot menu.
-step3- in boot menu go to boot options and select your pendrive, press enter.
-step4- now it will take you to mx linux boot screen. here go to advanced option and look for **toram** option and enter it.
+Once the rufus says complete or done, follow these substeps.  
+step1- shut down your pc and start again.  
+step2- when your pc show the first screen or logo, press the **boot** key (F12, esc, F10). It will open the one-time boot menu.  
+step3- in boot menu go to boot options and select your pendrive, press enter.  
+step4- now it will take you to mx linux boot screen. here go to advanced option and look for **toram** option and enter it.  
 
 This process wil boot entire os in ram and lounch the os from ram. you can actuall remove usb without crashing system. Your pendrive is free now and the pc will boot in mx linux. however it will not store anything yet.
 
